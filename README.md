@@ -1,2 +1,3 @@
 # App_ReactJS_Theme_dark/light
- Alterando o tema de uma aplicação com React JS
+
+Alterando o tema de uma aplicação com React JS e Typescript
